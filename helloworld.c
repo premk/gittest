@@ -7,7 +7,7 @@ int n=0;
 while(1)
 {
 	scanf("%d",&n);
-	if(n==42)
+	if(n==442)
 	{
 		break;
 	}
